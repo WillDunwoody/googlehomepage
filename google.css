@@ -1,0 +1,12 @@
+
+
+.apps {
+    width: 20x;
+    height: 20px;
+    opacity: 75%;
+    padding: 10px;
+}
+
+.apps:hover {
+    background-color: gray;
+}
